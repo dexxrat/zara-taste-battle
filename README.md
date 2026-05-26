@@ -31,4 +31,3 @@ Parsed Zara product data. Built as a solo pet project to practice full-stack dev
 
 ---
 
-## Project Structure
